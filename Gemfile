@@ -28,7 +28,7 @@ gem "devise"
 gem "devise-jwt"
 
 # JSON Serializer for JWT
-gem "json-serializer"
+gem "jsonapi-serializer"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: %i[ windows jruby ]
